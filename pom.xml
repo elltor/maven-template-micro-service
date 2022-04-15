@@ -14,7 +14,6 @@
     <artifactId>maven-template-micro-service</artifactId>
     <packaging>pom</packaging>
     <version>${revision}</version>
-
     <!-- project extra info -->
     <name>${project.artifactId}</name>
     <description>${project.artifactId}</description>

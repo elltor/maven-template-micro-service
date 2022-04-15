@@ -24,6 +24,10 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.elltor</groupId>
+            <artifactId>xxx-component</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
